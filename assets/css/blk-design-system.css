@@ -436,6 +436,7 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto; }
+ 
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -13640,9 +13641,9 @@ hr {
     color: #212529;
     padding: 0 15px;
     width: 100%;
-    max-width: 880px; }
+    max-width: 1080px; }
     .page-header .content-center.brand {
-      width: 47%; }
+      width: 87%; }
   .page-header footer {
     position: absolute;
     bottom: 0;
