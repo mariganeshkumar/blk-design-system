@@ -100,7 +100,7 @@ $default:       #344675 !default;
 $primary:       #f5ad54 !default;
 $secondary:     #f4f5f7 !default;
 $success:       #00f2c3 !default;
-$info:          #1d8cf8 !default;
+$info:          #54b7f5 !default;
 $warning:       #ff8d72 !default;
 $danger:        #fd5d93 !default;
 $black:         #222a42 !default;
@@ -110,7 +110,7 @@ $black:         #222a42 !default;
 $default-states:       #263148 !default;
 $primary-states:       #f5c854 !default;
 $success-states:       #0098f0 !default;
-$info-states:          #3358f4 !default;
+$info-states:          #54d2f5 !default;
 $warning-states:       #ff6491 !default;
 $danger-states:        #ec250d !default;
 $black-states:         #1d253b !default;
@@ -220,7 +220,7 @@ $yiq-contrasted-threshold:  200 !default;
 
 // Customize the light and dark text colors for use in our YIQ color contrast function.
 $yiq-text-dark:             $white !default;
-$yiq-text-light:             $gray-900 !default;
+$yiq-text-light:            $white !default;
 
 // Action colors
 

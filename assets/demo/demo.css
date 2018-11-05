@@ -1,3 +1,10 @@
+.img-half-fluid {
+  max-width: 35%;
+  height: auto; } 
+
+  .page-header .content-center.brand {
+    width: 87%; }
+
 .tim-row {
   margin-bottom: 20px;
 }
@@ -428,9 +435,9 @@
 }
 
 .brand .h1-seo {
-  font-size: 5em;
+  font-size: 3em;
   text-transform: uppercase;
-  font-weight: 300;
+  font-weight: 150;
 }
 
 .brand .n-logo {
