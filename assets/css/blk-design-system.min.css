@@ -453,6 +453,11 @@ hr {
     height: auto
 }
 
+.img-half-fluid{
+    max-width: 50%;
+    height: auto
+}
+
 .img-thumbnail {
     padding: .25rem;
     background-color: #171941;
