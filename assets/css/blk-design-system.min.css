@@ -5896,6 +5896,10 @@ a.bg-neutral:focus, a.bg-neutral:hover, button.bg-neutral:focus, button.bg-neutr
     background-color: #fff!important
 }
 
+.bg-yellow {
+    background-color: #f5ba54!important
+}
+
 .bg-transparent {
     background-color: transparent!important
 }
@@ -8836,6 +8840,10 @@ a.text-warning:focus, a.text-warning:hover {
     color: #fd5d93!important
 }
 
+.text-dark-blue {
+    color: #222a42!important
+}
+
 a.text-danger:focus, a.text-danger:hover {
     color: #fc2b71!important
 }
@@ -11430,24 +11438,24 @@ img {
     padding-top: 25px
 }
 
-.navbar.bg-white .navbar-nav .search-bar.input-group i {
+.navbar.bg-yellow .navbar-nav .search-bar.input-group i {
     color: #222a42
 }
 
-.navbar.bg-white .navbar-nav .search-bar.input-group .form-control {
+.navbar.bg-yellow .navbar-nav .search-bar.input-group .form-control {
     background: rgba(34, 42, 66, .1);
     border-radius: 4px
 }
 
-.navbar.bg-white .navbar-nav a.nav-link {
+.navbar.bg-yellow .navbar-nav a.nav-link {
     color: #222a42!important
 }
 
-.navbar.bg-white .navbar-brand, .navbar.bg-white .navbar-nav a.nav-link p, .navbar.bg-white .navbar-text {
+.navbar.bg-yellow .navbar-brand, .navbar.bg-yellow .navbar-nav a.nav-link p, .navbar.bg-yellow .navbar-text {
     color: #222a42
 }
 
-.navbar.bg-white .form-control {
+.navbar.bg-yellow .form-control {
     color: #222a42!important
 }
 
@@ -13467,7 +13475,7 @@ textarea.form-control:active, textarea.form-control:focus {
 }
 
 .index-page .page-header .container>.content-center.brand .h1-seo, .index-page .page-header .container>.content-center.brand h3 {
-    color: #fff;
+    color: #222a42;
     font-weight: 600;
     text-transform: capitalize
 }
@@ -14682,7 +14690,7 @@ hr.line-deafult {
 }
 
 .page-header .content-center.brand {
-    width: 47%
+    width: 70%
 }
 
 .page-header footer {
