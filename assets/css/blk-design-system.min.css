@@ -454,7 +454,7 @@ hr {
 }
 
 .img-half-fluid{
-    max-width: 50%;
+    max-width: 45%;
     height: auto
 }
 
@@ -16884,7 +16884,7 @@ input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget.dropdow
     font-size: 9.5em;
     margin-left: -4px;
     font-weight: 900;
-    color: hsla(0, 0%, 100%, .2)!important
+    color: rgba(19, 5, 70, 0.39)!important
 }
 
 .map {
